@@ -1,5 +1,5 @@
 # 📋 Ignite Tasks
-I developed this project as a challenge of my latest studies on React lessons at [Rocketseat](https://www.rocketseat.com.br).
+I developed this project as a challenge of my latest studies on Node lessons at [Rocketseat](https://www.rocketseat.com.br).
 
 ## 🚀 Techs and Tools
 - [Node.js v18](https://nodejs.org/)
